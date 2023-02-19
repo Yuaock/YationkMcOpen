@@ -1,2 +1,3 @@
-# YationkOpen
-YationkOpen
+我的世界开源2号线路
+
+包名格式：属性+名称+版本
